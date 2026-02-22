@@ -1,8 +1,8 @@
-# NaijaNews
+#NewsKnock
 
-![NaijaNews Preview](./preview.png)
+![NewsKnock Preview](./preview.png)
 
-NaijaNews is a web application that provides users with the latest news headlines, categorized by various topics such as General, Business, Sports, Technology, and Entertainment. The app also features an advanced search option that allows users to search for news articles based on specific criteria like date range, language, sources, and more.
+NewsKnock is a web application that provides users with the latest news headlines, categorized by various topics such as General, Business, Sports, Technology, and Entertainment. The app also features an advanced search option that allows users to search for news articles based on specific criteria like date range, language, sources, and more.
 
 ## Table of Contents
 
