@@ -5,11 +5,9 @@ body, html {
     box-sizing: border-box;
     font-family: 'Arial', sans-serif;
 }
-
 main {
     padding-top: 20px;
 }
-
 /* Navbar */
 .navbar {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
