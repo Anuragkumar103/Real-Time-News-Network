@@ -19,6 +19,7 @@ const sources = document.getElementById("sources");
 const domains = document.getElementById("domains");
 
 // Array to store news data
+
 let newsDataArr = [];
 
 // API Information
@@ -94,6 +95,7 @@ searchBtn.addEventListener("click", function() {
 });
 
 // Function to fetch and display news data
+
 async function fetchNews(url) {
     try {
         const response = await fetch(url);
