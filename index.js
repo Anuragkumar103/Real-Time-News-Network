@@ -162,6 +162,7 @@ function displayNews() {
         col.appendChild(card);
 
         newsdetails.appendChild(col);
+        
     });
 }
 
